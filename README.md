@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![header](https://capsule-render.vercel.app/api?type=waving&height=70&section=header&text=JEE%20YEON%20LEE&fontSize=40&animation=fadeIn&color=0:FF9A9E,50:FAD0C4,100:FBC2EB&fontAlignY=80&fontColor=B8575D)
 
 
