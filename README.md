@@ -6,7 +6,7 @@
   제 이름은 이지연이고 개발자의 꿈을 키우고 있습니다.<br>
   열심히 성장해서 기술로 사람들의 삶을 윤택하게 만드는 서비스를 만들고 싶습니다.<br><br>
   📌 BOOKSNAP DEVLOG ➡️ 
-  <a href="https://github.com/lizzyeon/Reading-Record-WEB/blob/main/DEVLOG.md">보러가기</a>  
+  <a href="https://github.com/lizzyeon/BOOKSNAP/blob/main/★DEVLOG.md">보러가기</a>  
   <br><br><br><br><br>
   
 
